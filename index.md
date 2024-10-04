@@ -7,3 +7,8 @@ Questo però, se non ho capito male, vale solo per la preview del codice, per il
 Ricordati di verificare la preview del file, così da capire se il campo da copiare con il testo scritto è troppo lungo!
 Purtroppo i cancelletti per la regolazione della dimensione dei caratteri in questa modalità non funzionano.
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Questa modalità per gli elenchi di roba da fare invece non mi piace molto, non essendo interattivo
+- [x] ma forse ci sta, essendo legato al fatto che mostra agli esterni il punto di un progetto in corso
